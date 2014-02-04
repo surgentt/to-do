@@ -26,3 +26,16 @@
 ### Delete a remote branch
 * 'git push origin :please-work'
   * Prior to the : we are telling it nothing, after is the name of the remote
+
+### Don't try and avoid conflicts
+* We break stuff then let it fix
+
+###SSH
+* This is the better way to work with github
+* SSH is a protocal for one computer to create a terminal with another computer
+  * SSH - Secure Shell
+  * Need an IP address as well as a Fingerprint
+
+#### How can you have two computers can know who each other is, without either one knowing the password?
+*One-Way function, Easy one direction and hard on teh other.
+*Easy One direction, hard the other way. 
