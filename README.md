@@ -1,8 +1,8 @@
-# Remote 
+### Remote 
 
 * A remote is for collaboration. It points the information to another point in time. 
 
-## Why use multiple remotes?
+### Why use multiple remotes?
 
 * Open source projects, you use a fork
 * Origin is your personal fork
