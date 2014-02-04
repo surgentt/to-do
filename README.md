@@ -39,3 +39,22 @@
 #### How can you have two computers can know who each other is, without either one knowing the password?
 *One-Way function, Easy one direction and hard on teh other.
 *Easy One direction, hard the other way. 
+
+*'ssh-keygen'
+  *Get a public key and a private key from this. 
+  *ssh keys get put in 'cd ~/.ssh/'
+  *share two public keys and one private key
+  *cat id_rsa.pib
+
+### Forking
+*Github added this term.
+*Really a repository with multiple remotes
+*Flatiron School Students
+  *We don't have acess to both remotes
+*Second a lab is forked we pay attention to.
+*Once pull request is submitted, we know the code is ready to be done
+*Cloning is done anaymously 
+
+### Pull Requests
+*Now there is a note in the incoming repository that a pull request
+*Can't create a pull request from command line, b/c they are not part of git.
